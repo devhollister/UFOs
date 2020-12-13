@@ -22,4 +22,4 @@ One drawback of this webpage design is that the method of resetting the filters 
 
 ### Reccomendations for Further Development
 
-Interesting further developments could include various analyses such as showing the top 5 cities with the most UFO sightings within the dataset. Similarly, a histogram showing the days or months with the most UFO sightings would be interesting. Further development could also improving on the original dataset by including more up to date data. If the original data was brought up to date and continually updated, it would then be useful to have a function that sorts sightings by most recent. 
+Further developments could be made by including various analyses such as displaying the five cities with the most UFO sightings within the dataset. Similarly, a histogram showing the days or months with the most UFO sightings would be interesting. Further development could also be improving on the original dataset by including more up to date data. If the original data was brought up to date and continually updated, it would then be useful to have a function that sorts sightings by most recent. 
